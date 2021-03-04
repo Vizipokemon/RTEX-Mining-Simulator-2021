@@ -20,3 +20,5 @@ Made as an entry for the Wowie jam 3.0 (2021 February), with the theme "Failure 
 
 * Font:  Thaleah Fat - by Tiny Worlds ( from Unity asset store)
 * Every other asset (code, sound fx, art) was made by me from scratch during the game jam
+
+![](gameplayScreenshot.PNG)
