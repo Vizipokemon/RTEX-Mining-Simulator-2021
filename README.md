@@ -6,6 +6,8 @@ Approximate game time: 3-5 min.
 
 Made as an entry for the Wowie jam 3.0 (2021 February), with the theme "Failure is progress".
 
+You can play it at: https://vizipokemon.itch.io/rtex-mining-simulator-2021
+
 Unity version: 2019.4.19f1
 
 ## Controls: 
