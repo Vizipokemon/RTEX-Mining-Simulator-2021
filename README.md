@@ -1,5 +1,7 @@
 # RTEX-Mining-Simulator-2021
 
+![](gameplayScreenshot.PNG)
+
 Congratulations, you managed to find an RTEX card that was ACTUALLY in STOCK! Don't waste your time, let's get to mining that sweet sweet crypto currency.
 
 Approximate game time: 3-5 min.
@@ -24,5 +26,3 @@ Unity version: 2019.4.19f1
 
 * Font:  Thaleah Fat - by Tiny Worlds (https://assetstore.unity.com/packages/2d/fonts/free-pixel-font-thaleah-140059)
 * Every other asset (code, sound fx, art) was made by me from scratch during the game jam
-
-![](gameplayScreenshot.PNG)
