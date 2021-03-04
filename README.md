@@ -22,7 +22,7 @@ Unity version: 2019.4.19f1
 
 ## Credits:
 
-* Font:  Thaleah Fat - by Tiny Worlds ( from Unity asset store)
+* Font:  Thaleah Fat - by Tiny Worlds (https://assetstore.unity.com/packages/2d/fonts/free-pixel-font-thaleah-140059)
 * Every other asset (code, sound fx, art) was made by me from scratch during the game jam
 
 ![](gameplayScreenshot.PNG)
